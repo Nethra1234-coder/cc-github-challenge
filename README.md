@@ -45,14 +45,12 @@ Ensure you have Python 3.8+ installed. You will need to install the following de
 pip install pandas xgboost scikit-learn
 ```
 
-### 2. Installation & Setup
+### 2. Installation, Setup & How to Submit
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/engine-challenge-repo.git](https://github.com/YOUR_USERNAME/engine-challenge-repo.git)
    cd engine-challenge-repo
    ```
-
-   ##  How to Submit
 
 1.  **Fork** this repository to your own account.
 2.  **Create a new branch** to work on your fixes:

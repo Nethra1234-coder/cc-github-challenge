@@ -2,7 +2,7 @@
 
 # Predictive Maintenance Code Challenge: The "Broken" Engine Model
 
-This repository contains a machine learning pipeline designed to predict engine health using the [Predictive Maintenance Engine Dataset](https://huggingface.co/datasets/Debashre2824/predictive-maintenance-engine).
+This repository contains a machine learning pipeline designed to predict engine health.
 
 **The catch?** The current codebase is intentionally riddled with **16 errors**—ranging from simple syntax typos to deep logical flaws that will prevent the model from training correctly.
 

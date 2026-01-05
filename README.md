@@ -1,6 +1,6 @@
 # cc-github-challenge
 
-# 🛠️ Predictive Maintenance Code Challenge: The "Broken" Engine Model
+# Predictive Maintenance Code Challenge: The "Broken" Engine Model
 
 This repository contains a machine learning pipeline designed to predict engine health using the [Predictive Maintenance Engine Dataset](https://huggingface.co/datasets/Debashre2824/predictive-maintenance-engine).
 
@@ -18,7 +18,7 @@ Your goal is to transform the broken script into a production-ready ML pipeline.
 
 ---
 
-## 📊 About the Dataset
+## About the Dataset
 The model uses real-world engine sensor data to classify whether an engine is in good or bad condition. Predictive maintenance helps in identifying potential failures before they occur, saving costs and improving safety.
 
 ### Column Descriptions:

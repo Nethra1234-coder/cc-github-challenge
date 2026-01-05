@@ -4,14 +4,14 @@
 
 This repository contains a machine learning pipeline designed to predict engine health.
 
-**The catch?** The current codebase is intentionally riddled with **16 errors**—ranging from simple syntax typos to deep logical flaws that will prevent the model from training correctly.
+**The catch?** The current codebase is intentionally riddled with **16 errors**, ranging from simple syntax typos to deep logical flaws that will prevent the model from training correctly.
 
 ---
 
 ##  Your Challenge
 Your goal is to transform the broken script into a production-ready ML pipeline. To complete the challenge, you should:
 
-1.  **Identify and Fix:** Find all 16 errors in the `predict_engine.py` script.
+1.  **Identify and Fix:** Find all 16 errors in the given scripts.
 2.  **Optimize:** Once the code runs, try to improve the accuracy or F1-score of the model.
 3.  **Contribute:** Submit your fixes via a **Pull Request (PR)**.
     * *Note: Please include a list of the errors you found in your PR description.*

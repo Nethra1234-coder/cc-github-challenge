@@ -1,5 +1,3 @@
-# cc-github-challenge
-
 # Predictive Maintenance Code Challenge: The "Broken" Engine Model
 
 This repository contains a machine learning pipeline designed to predict engine health.

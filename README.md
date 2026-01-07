@@ -49,19 +49,20 @@ pip install pandas xgboost scikit-learn
    git clone https://github.com/PavithraRajindra/cc-github-challenge.git
    cd cc-github-challenge
    ```
-2.  **Create a new branch** to work on your fixes:
+2. **Fork** this repository to your own account
+3.  **Create a new branch** to work on your fixes:
     ```bash
     git checkout -b fix/my-solution
     ```
-3.  **Commit your fixes** with a descriptive message:
+4.  **Commit your fixes** with a descriptive message:
     ```bash
     git commit -m "Fixed 16 errors and improved model performance"
     ```
-4.  **Push to the branch** on your forked repository:
+5.  **Push to the branch** on your forked repository:
     ```bash
     git push origin fix/my-solution
     ```
-5.  **Open a Pull Request** (PR) from your fork back to the main repository. 
+6.  **Open a Pull Request** (PR) from your fork back to the main repository. 
     * *In the PR description, please list the specific errors you identified and the steps you took to optimize the model.*
   
 ## **Note:** To run the challenge script, ensure you are in the src directory and execute:

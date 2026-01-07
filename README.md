@@ -66,7 +66,7 @@ pip install pandas xgboost scikit-learn
 5.  **Open a Pull Request** (PR) from your fork back to the main repository. 
     * *In the PR description, please list the specific errors you identified and the steps you took to optimize the model.*
   
-> **Note:** To run the challenge script, ensure you are in the src directory and execute:
-> ```bash
-> python -m conditionpredictor.train.train
-> ```
+## **Note:** To run the challenge script, ensure you are in the src directory and execute:
+ ```bash
+ python -m conditionpredictor.train.train
+ ```

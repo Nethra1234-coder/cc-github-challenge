@@ -46,7 +46,7 @@ pip install pandas xgboost scikit-learn
 ### 2. Installation, Setup & How to Submit
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/PavithraRajindra/cc-github-challenge.git](https://github.com/PavithraRajindra/cc-github-challenge.git)
+   git clone https://github.com/PavithraRajindra/cc-github-challenge.git
    cd cc-github-challenge
    ```
 

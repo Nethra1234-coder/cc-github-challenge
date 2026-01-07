@@ -49,8 +49,6 @@ pip install pandas xgboost scikit-learn
    git clone https://github.com/PavithraRajindra/cc-github-challenge.git
    cd cc-github-challenge
    ```
-
-1.  **Fork** this repository to your own account.
 2.  **Create a new branch** to work on your fixes:
     ```bash
     git checkout -b fix/my-solution
